@@ -1,0 +1,156 @@
+body {margin: 0;}
+
+#purple {background-color: #3a0b63;}
+
+#darkpurple {background-color: #430b6e;}
+
+#otherpurple {background-color: #5b1078;}
+
+#pink {background-color: #fb45c7;}
+
+table {background-image: url(imagens/fundo.png);
+background-size: cover;
+background-repeat: no-repeat;
+height: 950px;
+width: 100%;}
+
+td { width: 25%; }
+
+.img {text-align: center;}
+
+#texto1 {color: #ffffff;
+    font-size: 30px;
+    text-align: justify;
+    font-family: "Raleway", sans-serif;}
+
+#texto2 {color: #ffffff;
+font-size: 17px;
+text-align: justify;
+font-family: "Raleway", sans-serif;
+font-weight: 700;}    
+
+#texto3 {
+    color: #ffffff;
+    font-size: 16px;
+    text-align: justify;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+}
+
+#green {
+    background-color: #89f668;
+}
+
+#padding {
+    padding: 0% 2% 0% 2%;
+    line-height: 22px
+}
+
+#coluna {
+    column-count: 3;
+    
+}
+
+#textoicone {
+    color: #661083;
+    font-size: 18px;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+}
+
+#titulo {
+    color: #89f668;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+#subtitulo {
+    color: #89f668;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#strong {
+    color: #89f668;
+    font-family: "Raleway", sans-serif;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 600;
+}    
+
+#p {
+    color: #89f668;
+    font-family: "Raleway", sans-serif;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 600;
+}   
+
+.padd {
+    padding: 0 3.5% 0 3.5%;
+}
+
+button {
+    background-color: #8a4d9d;
+    color: #ffffff;
+    font-size: 19px;
+    font-family: "Raleway", sans-serif;
+    border-radius: 11px;
+    border-style: none;
+    height: 50px ;
+    width: 291px;
+}
+
+.eocalvo{
+    text-align: center;
+}
+
+#colegio {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+}
+
+#endereco {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+#link {
+    color: #ffffff;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 12px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#image {
+    text-align: center;
+}
+
+#formulario {
+    background-image: url(imagens/formulário.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 400px;
+    height: 1000px;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
